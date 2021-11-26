@@ -3,4 +3,4 @@
 <h2> Glad to see you here Our Work </h2>
 <h3> Ansible Testing55 </h3>
 <h4> Nexus check uploading Artifacts </h4>
-<h5> docker container with App created </h5>
+<h5> docker container with App created done change sudo chmod 666 /var/run/docker.sock </h5>
